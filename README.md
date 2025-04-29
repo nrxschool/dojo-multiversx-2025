@@ -1,20 +1,7 @@
-# ⛩️ Dojo [Template]
+# ⛩️ Dojo MultiversX
 
-## TLDR
+![multiversx-light](https://github.com/user-attachments/assets/daaf366a-9ffc-4907-b943-6ae4c3015f5e)
 
-### Numbers
-
-| participants | projects | challenger |
-| ------------ | -------- | ---------- |
-| 0            | 0        | 0          |
-
-### Participants Posts
-
--
--
--
-
-## Opening Video
 
 ## Challenger
 
@@ -39,7 +26,7 @@
 > [!TIP]
 > could have
 
-- Subir um fullnode [BLOCKCHAIN_NAME] em algum Cloud.
+- Subir um fullnode MultiversX em algum Cloud.
 - Conectar o Explorer ao seu fullnode, como uma rede privada.
 - Adicionar gráficos e estatísticas (ex.: hash rate, transações por segundo).
 
@@ -52,7 +39,7 @@
 - Gere um par de chaves.
 - Importe seed para criar wallet.
 - Busque o saldo da carteira.
-- Envie [NATIVE_TOKEN] para outros endereços.
+- Envie EGLD para outros endereços.
 
 > [!IMPORTANT]
 > should have
